@@ -1,0 +1,3 @@
+[submodule "rainfall-idf-curves"]
+	path = rainfall-idf-curves
+	url = https://github.com/longavailable/zhenjiang-rainfall-idf-curves
