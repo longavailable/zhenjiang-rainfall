@@ -1,3 +1,6 @@
 [submodule "rainfall-idf-curves"]
 	path = rainfall-idf-curves
 	url = https://github.com/longavailable/zhenjiang-rainfall-idf-curves
+[submodule "data-58252"]
+	path = data-58252
+	url = https://github.com/longavailable/zhenjiang-dantu-precipitation
